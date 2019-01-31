@@ -5,7 +5,7 @@ class Main {
     int Counter, Maximum;
     Number = new int[10];
     Scanner input = new Scanner(System.in);
-    System.out.print("To find the maximum of 10 numbers, enter the first number:");
+    System.out.print("To find the maximum of sandeep numbers, enter the first number:");
   	Number[0] = input.nextInt();
   	for(Counter = 1; Counter <= 9; Counter++)
   	{
